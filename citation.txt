@@ -1,0 +1,8 @@
+@article{REPO213,
+    author = "Zhang, Yao-zhong and Liu, Yunjie and Bai, Zeheng and Fujimoto, Kosuke and Uematsu, Satoshi and Imoto, Seiya",
+    journal = "Briefings in Bioinformatics",
+    number = "5",
+    title = "{Zero-Shot-Capable Identification of Phage¨CHost Relationships with Whole-Genome Sequence Representation by Contrastive Learning}",
+    volume = "24",
+    year = "2023"
+}
